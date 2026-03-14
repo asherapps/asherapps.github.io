@@ -6,7 +6,7 @@ export const apps = [
     genre: 'Photo & Video'
   },
   {
-    name: 'Pinoy Lingo for iMessage',
+    name: 'Pinoy Lingo Sticker Maker',
     artwork: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/52/bf/ad52bfda-cb7a-b606-866e-3a4de5bee9dd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/540x540bb.webp',
     url: 'https://apple.co/46XvuPH',
     genre: 'Stickers'
