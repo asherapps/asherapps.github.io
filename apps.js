@@ -42,6 +42,12 @@ export const apps = [
     genre: 'Stickers'
   },
   {
+    name: 'Everyday Greetings',
+    artwork: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/55/c4/5655c44a-fad0-0218-f035-0c14700f6862/AppIcon-0-0-1x_U007emarketing-0-0-85-181.png/400x300bb.webp',
+    url: 'https://apps.apple.com/us/app/everyday-greetings/id1165323161',
+    genre: 'Stickers'
+  },
+  {
     name: 'St.Patrick Lucky Stickers',
     artwork: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/83/f5/cb83f5c9-39bf-023f-5854-8fb79827464c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/540x540bb.webp',
     genre: 'Stickers'
@@ -110,12 +116,6 @@ export const apps = [
     name: 'Happy Birthday Greetings Pack',
     artwork: 'https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/03/61/c4/0361c4af-b556-41d2-dc07-bd9867937507/iMessage_App_Icon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-181-0-0-0-0.png/460x344sr.png',
     url: 'https://apps.apple.com/us/app/happy-birthday-greetings-pack/id1410594384?ls=1',
-    genre: 'Stickers'
-  },
-  {
-    name: 'Everyday Greetings and Texts',
-    artwork: 'https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/70/f5/49/70f549f9-449b-199b-b709-bc2256da494c/iMessage_App_Icon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-181-0-0-0-0.png/460x344sr.png',
-    url: 'https://apps.apple.com/us/app/everyday-greetings-and-texts/id1165324424?uo=4',
     genre: 'Stickers'
   },
   {
