@@ -42,6 +42,12 @@ export const apps = [
     genre: 'Stickers'
   },
   {
+    name: 'Chinese New Year Blessings',
+    artwork: 'https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/da/c8/f8/dac8f855-08f9-1ffb-f1bf-c55cb397513d/iMessage_App_Icon-0-0-1x_U007emarketing-0-0-0-0-0-3-sRGB-0-0-0-GLES2_U002c0-512MB-85-181-0-0.png/460x344sr.png',
+    url: 'https://apps.apple.com/us/app/chinese-new-year-blessings/id1494554899?ls=1',
+    genre: 'Stickers'
+  }
+  {
     name: 'Everyday Greetings',
     artwork: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/55/c4/5655c44a-fad0-0218-f035-0c14700f6862/AppIcon-0-0-1x_U007emarketing-0-0-85-181.png/400x300bb.webp',
     url: 'https://apps.apple.com/us/app/everyday-greetings/id1165323161',
@@ -128,12 +134,6 @@ export const apps = [
     name: "It's a Boy! iMessage Stickers",
     artwork: 'https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/92/aa/12/92aa124d-a91f-2602-88b7-f0b33d32b4e2/iMessage_App_Icon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-181-0-0-0-0.png/460x344sr.png',
     url: 'https://apps.apple.com/us/app/its-a-boy-imessage-stickers/id1387706378?ls=1',
-    genre: 'Stickers'
-  },
-  {
-    name: 'Chinese New Year Blessings',
-    artwork: 'https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/da/c8/f8/dac8f855-08f9-1ffb-f1bf-c55cb397513d/iMessage_App_Icon-0-0-1x_U007emarketing-0-0-0-0-0-3-sRGB-0-0-0-GLES2_U002c0-512MB-85-181-0-0.png/460x344sr.png',
-    url: 'https://apps.apple.com/us/app/chinese-new-year-blessings/id1494554899?ls=1',
     genre: 'Stickers'
   }
 ];
